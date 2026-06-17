@@ -1,0 +1,12 @@
+{
+  "name": "webhook-flyio",
+  "version": "1.0.0",
+  "description": "Test webhook para Fly.io",
+  "main": "webhook.js",
+  "scripts": {
+    "start": "node webhook.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
